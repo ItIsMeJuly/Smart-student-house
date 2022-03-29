@@ -1,0 +1,10 @@
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\bin\Debug\Test Doorlock System.exe.config
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\bin\Debug\Test Doorlock System.exe
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\bin\Debug\Test Doorlock System.pdb
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test Doorlock System.csproj.AssemblyReference.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test_Doorlock_System.Form1.resources
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test_Doorlock_System.Properties.Resources.resources
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test Doorlock System.csproj.GenerateResource.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test Doorlock System.csproj.CoreCompileInputs.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test Doorlock System.exe
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\Test Doorlock System\Test Doorlock System\obj\Debug\Test Doorlock System.pdb

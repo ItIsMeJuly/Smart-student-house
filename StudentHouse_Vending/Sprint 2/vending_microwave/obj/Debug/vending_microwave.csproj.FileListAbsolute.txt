@@ -1,0 +1,20 @@
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\bin\Debug\vending_microwave.exe.config
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\bin\Debug\vending_microwave.exe
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\bin\Debug\vending_microwave.pdb
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.Form1.resources
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.Properties.Resources.resources
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.csproj.GenerateResource.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.csproj.CoreCompileInputs.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.exe
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.pdb
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\vending\vending_microwave\obj\Debug\vending_microwave.csproj.AssemblyReference.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\bin\Debug\vending_microwave.exe.config
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\bin\Debug\vending_microwave.exe
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\bin\Debug\vending_microwave.pdb
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.csproj.AssemblyReference.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.Form1.resources
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.Properties.Resources.resources
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.csproj.GenerateResource.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.csproj.CoreCompileInputs.cache
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.exe
+C:\Users\Start\Desktop\Fontys UAS\Semester1\Advanced\tech-prodigy\Projects\StudentHouse_Vending\Sprint 2\vending_microwave\obj\Debug\vending_microwave.pdb

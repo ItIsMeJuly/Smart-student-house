@@ -1,0 +1,20 @@
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.GenerateResource.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceptionForm.resources
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReceptionForm.resources
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.GenerateResource.cache
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\OneDrive\Bureaublad\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

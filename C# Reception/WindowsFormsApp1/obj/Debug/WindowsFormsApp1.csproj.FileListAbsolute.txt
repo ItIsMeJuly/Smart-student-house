@@ -1,0 +1,40 @@
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tding\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nickm\Tgroup4\tech-prodigy\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech prodigy\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chiem\Tech Prodigy 2\tech-prodigy\Projects\C# Reception\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
