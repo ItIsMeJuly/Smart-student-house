@@ -15,4 +15,3 @@ They communicate with a serial connection (USB) and the boards send information 
   <li> Vending Machine and a Microwave are both integrated on one chip with a seperate software for a Laptop, PC. You could either get a beverage or a snack from the vending machine while heating something in the microwave. 🎰
 </ul>
 
-# My part was the vending machine and microwave and helping my teammates with debugging
